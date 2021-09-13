@@ -1,6 +1,6 @@
 {
   "name": "Uniswap Default List",
-  "timestamp": "2021-08-27T06:29:58.162Z",
+  "timestamp": "2021-09-13T07:04:33.777Z",
   "version": {
     "major": 2,
     "minor": 0,
@@ -430,6 +430,22 @@
       "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
     },
     {
+      "name": "Token A",
+      "symbol": "A",
+      "address": "0x7d7e6a44118E9BaeF79e74C25054101F32cDF983",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
+      "name": "Token B",
+      "symbol": "B",
+      "address": "0x34E2c2A078B220dF7f7CCf0D0Aca5dbAA4A1C282",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
       "name": "Token B",
       "symbol": "B",
       "address": "0x34E2c2A078B220dF7f7CCf0D0Aca5dbAA4A1C282",
@@ -446,6 +462,30 @@
       "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
     },
     {
+      "name": "BBT DeFi Test",
+      "symbol": "BBDT",
+      "address": "0x383fFd1405D2e80B594A845EA834a78b4d1C092A",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
+      "name": "BBDT",
+      "symbol": "BBDT",
+      "address": "0x8a3bD6aeD1D75764c013577e2E7eDfe1402B2867",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
+      "name": "Token C",
+      "symbol": "C",
+      "address": "0x8d3f483E33faf642323D36A8fAEA6F2b2CD112D9",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
       "name": "Token C",
       "symbol": "C",
       "address": "0x8d3f483E33faf642323D36A8fAEA6F2b2CD112D9",
@@ -457,6 +497,22 @@
       "name": "Token D",
       "symbol": "D",
       "address": "0xe55FE8516946aeE1924ca7AD08056A5e6eB6F956",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
+      "name": "Token D",
+      "symbol": "D",
+      "address": "0xe55FE8516946aeE1924ca7AD08056A5e6eB6F956",
+      "chainId": 25925,
+      "decimals": 18,
+      "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
+    },
+    {
+      "name": "KKUB",
+      "symbol": "KKUB",
+      "address": "0x9687928146ddd5623Af763035C073e566d8f90A8",
       "chainId": 25925,
       "decimals": 18,
       "logoURI": "https://www.svgrepo.com/show/275501/coin.svg"
